@@ -13,7 +13,7 @@ function Table  ({data})  {
   </thead>
 
   <tbody>
-    <tr className="gap-4">
+    <tr >
       <td>{data.dataName.name}</td>
       <td>{data.dataName.age}</td>
       <td>{data.dataName.city}</td>
